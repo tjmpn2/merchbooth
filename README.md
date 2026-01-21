@@ -1,4 +1,4 @@
-# MerchFlow
+# MerchBooth
 
 Merchandise management system with Square payment integration — inspired by AtVenu.
 
