@@ -131,7 +131,7 @@ export default function MerchFlow() {
         <div className="brand-icon">
           <ShoppingBag size={24} />
         </div>
-        <span className="brand-text">MerchFlow</span>
+        <span className="brand-text">MerchBooth</span>
         <span className="brand-tag">+ Square</span>
       </div>
       
