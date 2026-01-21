@@ -26,7 +26,7 @@ const SquareAPI = {
 };
 
 // Main App Component
-export default function MerchFlow() {
+export default function MerchBooth() {
   const [activeView, setActiveView] = useState('dashboard');
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [cart, setCart] = useState([]);
